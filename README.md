@@ -146,7 +146,7 @@ IF( ISBLANK([期初总资产]), BLANK(), ([期初总资产] + [期末总资产])
 
 - **作者**：陶惠灵
 - **邮箱**：thlthl2010@yeah.net
-- **GitHub**：[@{你的GitHub用户名}](https://github.com/{你的GitHub用户名})
+- **GitHub**：[@taohuiling2010-bot](https://github.com/taohuiling2010-bot)
 - **Gitee 国内镜像**：[{仓库链接}]({仓库链接})
 
 如对项目有任何疑问或建议，欢迎通过 Issue 或邮件联系。
