@@ -162,7 +162,7 @@ IF( ISBLANK([期初总资产]), BLANK(), ([期初总资产] + [期末总资产])
 ## 📮 联系方式
 
 - **作者**：陶惠灵
-- **邮箱**：thlthl2010@yeah.net
+- **邮箱**：taohuiling2010@gmail.com
 - **GitHub**：[@taohuiling2010-bot](https://github.com/taohuiling2010-bot)
 - **Gitee 国内镜像**：[gitee.com/taohuiling2010/dupont-analysis-powerbi](https://gitee.com/taohuiling2010/dupont-analysis-powerbi)
 
